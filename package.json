@@ -1,0 +1,14 @@
+{
+  "name": "Project_Quan_ly_Khach_San",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/khahnm04/Project_Quan_Ly_Khach_San.git",
+  "author": "khahnm04 <khanhnguyenminh1811@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "pug -w ./views/pages -o ./ -P"
+  },
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
